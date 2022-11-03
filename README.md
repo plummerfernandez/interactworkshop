@@ -45,3 +45,15 @@ teachable machine https://teachablemachine.withgoogle.com/
 ## learn more about Tensorflow
 https://www.tensorflow.org/
 article on posenet https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5
+
+# tutorial for p5JS + posenet
+https://www.youtube.com/watch?v=EA3-k9mnLHs
+
+
+# URLs to the github
+
+Root directory: 
+https://plummerfernandez.github.io/interactworkshop/
+
+example 1: 
+https://plummerfernandez.github.io/interactworkshop/example1
