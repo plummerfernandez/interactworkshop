@@ -12,6 +12,11 @@ reference page https://p5js.org/reference/
 
 Tutorials with the coding train  https://thecodingtrain.com/tracks/code-programming-with-p5-js
 
+bare minimum example for video feed in p5JS
+
+https://editor.p5js.org/plummerfernandez/sketches/fIZrMVC4Bh
+
+
 ## ML5
 main page https://learn.ml5js.org/#/
 
