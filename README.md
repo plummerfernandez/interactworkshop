@@ -24,15 +24,25 @@ posenet https://learn.ml5js.org/#/reference/posenet
 
 posenet webcam demo https://editor.p5js.org/ml5/sketches/PoseNet_webcam
 
+
+
 imageClassification https://learn.ml5js.org/#/reference/image-classifier
 
 https://editor.p5js.org/ml5/sketches/ImageClassification_Video
+
+
+
 
 bodypix https://learn.ml5js.org/#/reference/bodypix
 
 https://editor.p5js.org/ml5/sketches/BodyPix_Webcam
 
 https://editor.p5js.org/ml5/sketches/BodyPix_Webcam_Parts
+
+bodypix segmentation (with segments in colour)
+https://editor.p5js.org/bitSpaz/sketches/Ofc2vYirB
+
+
 
 facemesh https://learn.ml5js.org/#/reference/facemesh
 
@@ -45,6 +55,10 @@ https://editor.p5js.org/ml5/sketches/FaceApi_Video_Landmarks
 
 ## Google
 teachable machine https://teachablemachine.withgoogle.com/
+
+# teachable machine - posenet for p5js editor
+if you train posenet on TM, paste the url to the model in this P5js 	sketch:
+https://editor.p5js.org/auduno/sketches/VaMqUyZJO
 
 
 ## learn more about Tensorflow
